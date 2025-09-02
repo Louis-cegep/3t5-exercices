@@ -1,0 +1,185 @@
+
+WindowsBuildLabEx                                       : 26100.1.amd64fre.ge_release.240331-1435
+WindowsCurrentVersion                                   : 6.3
+WindowsEditionId                                        : Education
+WindowsInstallationType                                 : Client
+WindowsInstallDateFromRegistry                          : 2025-08-26 19:53:11
+WindowsProductId                                        : 00328-00000-00000-AA911
+WindowsProductName                                      : Windows 10 Education
+WindowsRegisteredOrganization                           : 
+WindowsRegisteredOwner                                  : Utilisateur Windows
+WindowsSystemRoot                                       : C:\Windows
+WindowsVersion                                          : 2009
+WindowsUBR                                              : 4946
+BiosCharacteristics                                     : {4, 7, 9, 11…}
+BiosBIOSVersion                                         : {INTEL  - 6040000, VMW71.00V.21100432.B64.2301110304, VMware, Inc. - 10000}
+BiosBuildNumber                                         : 
+BiosCaption                                             : VMW71.00V.21100432.B64.2301110304
+BiosCodeSet                                             : 
+BiosCurrentLanguage                                     : 
+BiosDescription                                         : VMW71.00V.21100432.B64.2301110304
+BiosEmbeddedControllerMajorVersion                      : 255
+BiosEmbeddedControllerMinorVersion                      : 255
+BiosFirmwareType                                        : Uefi
+BiosIdentificationCode                                  : 
+BiosInstallableLanguages                                : 
+BiosInstallDate                                         : 
+BiosLanguageEdition                                     : 
+BiosListOfLanguages                                     : 
+BiosManufacturer                                        : VMware, Inc.
+BiosName                                                : VMW71.00V.21100432.B64.2301110304
+BiosOtherTargetOS                                       : 
+BiosPrimaryBIOS                                         : True
+BiosReleaseDate                                         : 2023-01-10 19:00:00
+BiosSerialNumber                                        : VMware-42 2d c0 51 21 a1 4d e8-49 8d 60 12 29 90 f9 ef
+BiosSMBIOSBIOSVersion                                   : VMW71.00V.21100432.B64.2301110304
+BiosSMBIOSMajorVersion                                  : 2
+BiosSMBIOSMinorVersion                                  : 7
+BiosSMBIOSPresent                                       : True
+BiosSoftwareElementState                                : Running
+BiosStatus                                              : OK
+BiosSystemBiosMajorVersion                              : 255
+BiosSystemBiosMinorVersion                              : 255
+BiosTargetOperatingSystem                               : 0
+BiosVersion                                             : INTEL  - 6040000
+CsAdminPasswordStatus                                   : Enabled
+CsAutomaticManagedPagefile                              : True
+CsAutomaticResetBootOption                              : True
+CsAutomaticResetCapability                              : True
+CsBootOptionOnLimit                                     : DoNotReboot
+CsBootOptionOnWatchDog                                  : DoNotReboot
+CsBootROMSupported                                      : True
+CsBootStatus                                            : {0, 0, 0, 33…}
+CsBootupState                                           : Normal boot
+CsCaption                                               : PCDEV
+CsChassisBootupState                                    : Safe
+CsChassisSKUNumber                                      : 
+CsCurrentTimeZone                                       : -240
+CsDaylightInEffect                                      : True
+CsDescription                                           : AT/AT COMPATIBLE
+CsDNSHostName                                           : PCDEV
+CsDomain                                                : auto.cemti.ca
+CsDomainRole                                            : MemberWorkstation
+CsEnableDaylightSavingsTime                             : True
+CsFrontPanelResetStatus                                 : Unknown
+CsHypervisorPresent                                     : True
+CsInfraredSupported                                     : False
+CsInitialLoadInfo                                       : 
+CsInstallDate                                           : 
+CsKeyboardPasswordStatus                                : Unknown
+CsLastLoadInfo                                          : 
+CsManufacturer                                          : VMware, Inc.
+CsModel                                                 : VMware7,1
+CsName                                                  : PCDEV
+CsNetworkAdapters                                       : {Ethernet0}
+CsNetworkServerModeEnabled                              : True
+CsNumberOfLogicalProcessors                             : 2
+CsNumberOfProcessors                                    : 1
+CsProcessors                                            : {Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz}
+CsOEMStringArray                                        : {[MS_VM_CERT/SHA1/27d66596a61c48dd3dc7216fd715126e33f59ae7], Welcome to the Virtual Machine}
+CsPartOfDomain                                          : True
+CsPauseAfterReset                                       : 3932100000
+CsPCSystemType                                          : Desktop
+CsPCSystemTypeEx                                        : Desktop
+CsPowerManagementCapabilities                           : 
+CsPowerManagementSupported                              : 
+CsPowerOnPasswordStatus                                 : Disabled
+CsPowerState                                            : Unknown
+CsPowerSupplyState                                      : Safe
+CsPrimaryOwnerContact                                   : 
+CsPrimaryOwnerName                                      : Utilisateur Windows
+CsResetCapability                                       : Other
+CsResetCount                                            : -1
+CsResetLimit                                            : -1
+CsRoles                                                 : {LM_Workstation, LM_Server, NT}
+CsStatus                                                : OK
+CsSupportContactDescription                             : 
+CsSystemFamily                                          : 
+CsSystemSKUNumber                                       : 
+CsSystemType                                            : x64-based PC
+CsThermalState                                          : Safe
+CsTotalPhysicalMemory                                   : 4293779456
+CsPhysicallyInstalledMemory                             : 4194304
+CsUserName                                              : PCDEV\Administrateur
+CsWakeUpType                                            : PowerSwitch
+CsWorkgroup                                             : 
+OsName                                                  : Microsoft Windows 11 Éducation
+OsType                                                  : WINNT
+OsOperatingSystemSKU                                    : 121
+OsVersion                                               : 10.0.26100
+OsCSDVersion                                            : 
+OsBuildNumber                                           : 26100
+OsHotFixes                                              : {KB5056579, KB5050575, KB5059093, KB5063878…}
+OsBootDevice                                            : \Device\HarddiskVolume1
+OsSystemDevice                                          : \Device\HarddiskVolume3
+OsSystemDirectory                                       : C:\Windows\system32
+OsSystemDrive                                           : C:
+OsWindowsDirectory                                      : C:\Windows
+OsCountryCode                                           : 1
+OsCurrentTimeZone                                       : -240
+OsLocaleID                                              : 0c0c
+OsLocale                                                : fr-CA
+OsLocalDateTime                                         : 2025-09-02 17:04:02
+OsLastBootUpTime                                        : 2025-09-02 15:13:11
+OsUptime                                                : 01:50:49.8607024
+OsBuildType                                             : Multiprocessor Free
+OsCodeSet                                               : 1252
+OsDataExecutionPreventionAvailable                      : True
+OsDataExecutionPrevention32BitApplications              : True
+OsDataExecutionPreventionDrivers                        : True
+OsDataExecutionPreventionSupportPolicy                  : OptIn
+OsDebug                                                 : False
+OsDistributed                                           : False
+OsEncryptionLevel                                       : 256
+OsForegroundApplicationBoost                            : Maximum
+OsTotalVisibleMemorySize                                : 4193144
+OsFreePhysicalMemory                                    : 1003676
+OsTotalVirtualMemorySize                                : 5634936
+OsFreeVirtualMemory                                     : 1562388
+OsInUseVirtualMemory                                    : 4072548
+OsTotalSwapSpaceSize                                    : 
+OsSizeStoredInPagingFiles                               : 1441792
+OsFreeSpaceInPagingFiles                                : 1251264
+OsPagingFiles                                           : {C:\pagefile.sys}
+OsHardwareAbstractionLayer                              : 10.0.26100.1
+OsInstallDate                                           : 2025-08-26 15:53:11
+OsManufacturer                                          : Microsoft Corporation
+OsMaxNumberOfProcesses                                  : 4294967295
+OsMaxProcessMemorySize                                  : 137438953344
+OsMuiLanguages                                          : {fr-FR}
+OsNumberOfLicensedUsers                                 : 0
+OsNumberOfProcesses                                     : 154
+OsNumberOfUsers                                         : 6
+OsOrganization                                          : 
+OsArchitecture                                          : 64 bits
+OsLanguage                                              : fr-FR
+OsProductSuites                                         : {TerminalServicesSingleSession}
+OsOtherTypeDescription                                  : 
+OsPAEEnabled                                            : 
+OsPortableOperatingSystem                               : False
+OsPrimary                                               : True
+OsProductType                                           : WorkStation
+OsRegisteredUser                                        : Utilisateur Windows
+OsSerialNumber                                          : 00328-00000-00000-AA911
+OsServicePackMajorVersion                               : 0
+OsServicePackMinorVersion                               : 0
+OsStatus                                                : OK
+OsSuites                                                : {TerminalServices, TerminalServicesSingleSession}
+OsServerLevel                                           : 
+KeyboardLayout                                          : en-CA
+TimeZone                                                : (UTC-05:00) Est (É.-U. et Canada)
+LogonServer                                             : \\PCDEV
+PowerPlatformRole                                       : Desktop
+HyperVisorPresent                                       : True
+HyperVRequirementDataExecutionPreventionAvailable       : 
+HyperVRequirementSecondLevelAddressTranslation          : 
+HyperVRequirementVirtualizationFirmwareEnabled          : 
+HyperVRequirementVMMonitorModeExtensions                : 
+DeviceGuardSmartStatus                                  : Off
+DeviceGuardRequiredSecurityProperties                   : 
+DeviceGuardAvailableSecurityProperties                  : 
+DeviceGuardSecurityServicesConfigured                   : 
+DeviceGuardSecurityServicesRunning                      : 
+DeviceGuardCodeIntegrityPolicyEnforcementStatus         : 
+DeviceGuardUserModeCodeIntegrityPolicyEnforcementStatus : 
+

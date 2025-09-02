@@ -11,49 +11,49 @@ Pour ce faire, analysez l'objet résultant de chaque maillon à l'aide des comma
         - Description: Le mot "spooler", qui est le nom du service recherché
 
     - Get-Service
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: String
+        - Description: Obtient le service en paramètre
 
     - Select-Object
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: String
+        - Description: Selectionne l'objet en paramètre
 
     - Format-List
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: String
+        - Description: Convertit l'objet en liste
 
     - Out-File
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: String
+        - Description: Envoie l'objet vers un fichier et le converti en texte
 
 
 
 2. Get-Item C:\Windows\System32\drivers\etc\hosts | Get-Content | Out-Null
 
     - Get-Item
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: String
+        - Description: Obtient l'objet en paramètre
 
    - Get-Content
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: List
+        - Description: Obtient le contenu de l'objet en paramètre
 
     - Out-Null
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: Rien
+        - Description: Envoie l'objet vers rien
 
 
 
 3. Get-LocalGroup -Name Administrateurs | Get-LocalGroupMember | Select-Object -Property Name, SID | Out-GridView
 
     - Get-LocalGroup
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: List
+        - Description: Obtient le groupe local en paramètre
 
     - Get-LocalGroupMember
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: List
+        - Description: Obtient les membres du groupe local en paramètre
 
     - Select-Object
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: String
+        - Description: Sélectionne l'objet en paramètre
